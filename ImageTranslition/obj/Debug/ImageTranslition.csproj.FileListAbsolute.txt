@@ -1,0 +1,18 @@
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\bin\Debug\ImageTranslition.exe.config
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\bin\Debug\ImageTranslition.exe
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\bin\Debug\ImageTranslition.pdb
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\obj\Debug\ImageTranslition.csprojResolveAssemblyReference.cache
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\obj\Debug\ImageTranslition.Form1.resources
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\obj\Debug\ImageTranslition.Properties.Resources.resources
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\obj\Debug\ImageTranslition.csproj.GenerateResource.Cache
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\obj\Debug\ImageTranslition.exe
+C:\Users\djed__000\Desktop\ImageTranslition-master\ImageTranslition-master\ImageTranslition\obj\Debug\ImageTranslition.pdb
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\bin\Debug\ImageTranslition.exe.config
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\obj\Debug\ImageTranslition.exe
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\obj\Debug\ImageTranslition.pdb
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\obj\Debug\ImageTranslition.csprojResolveAssemblyReference.cache
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\obj\Debug\ImageTranslition.Form1.resources
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\obj\Debug\ImageTranslition.Properties.Resources.resources
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\obj\Debug\ImageTranslition.csproj.GenerateResource.Cache
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\bin\Debug\ImageTranslition.exe
+C:\Users\CallMeF3AR\Documents\Visual Studio 2015\Projects\ImageTranslition\ImageTranslition\bin\Debug\ImageTranslition.pdb
