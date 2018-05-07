@@ -15,3 +15,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+.gitlab-ci.yml merge=ignore
+./gitlab-ci/*.sh merge=ignore
